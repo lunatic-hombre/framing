@@ -64,7 +64,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>bgc.app.WebApp</mainClass>
+                            <mainClass>com.salesforce.framing.WebApp</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
